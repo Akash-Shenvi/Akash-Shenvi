@@ -35,6 +35,14 @@ I design REST APIs, optimize databases, deploy to cloud platforms, and craft cle
 </p>
 
 ---
+---
+
+## 🏆 GitHub Profile Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Akash-Shenvi&theme=onedark&column=7)
+
+---
+
 
 ## 📊 GitHub Analytics
 
